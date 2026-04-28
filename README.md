@@ -29,12 +29,12 @@ Hey! I'm Matías, a Computer technician from Argentina 🇦🇷, currently worki
 
 <table width="100%" style="border:none;">
   <tr>
-    <td width="55%" valign="middle" align="center">
-      <!-- Stats generales generados por metrics -->
-      <img src="metrics-stats.svg" width="100%" alt="GitHub stats"/>
+    <td width="55%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mmruii&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=mmruii&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&hide_border=true" width="100%"/>
     </td>
     <td width="45%" valign="middle" align="center">
-      <!-- Lenguajes generados por metrics (incluye repos privados y de org) -->
       <img src="metrics-languages.svg" width="100%" alt="Most used languages"/>
     </td>
   </tr>
