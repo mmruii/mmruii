@@ -39,3 +39,6 @@ Hey! I'm Matías, a Computer Science technician from Argentina 🇦🇷, current
     </td>
   </tr>
 </table>
+
+---
+[![](https://komarev.com/ghpvc/?username=mmruii&icon=0&color=0)](https://visitcount.itsvg.in)
