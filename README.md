@@ -10,7 +10,7 @@
 ## 💡 About Me:
 Hey! I'm Matías, a Computer technician from Argentina 🇦🇷, currently working toward my Bachelor's degree in Computer Science.
 
-- 🎓 Studying Computer technician @ IPM
+- 🎓 Studying Computer technician @ [IPM](https://www.ipm.edu.ar/)
 - 🔧 Expanding into backend development and cybersecurity
 - 📡 Learning: JavaScript, React, Python & ethical hacking
 
