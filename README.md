@@ -35,7 +35,8 @@ Hey! I'm Matías, a Computer technician from Argentina 🇦🇷, currently worki
       <img src="https://streak-stats.demolab.com/?user=mmruii&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&hide_border=true" width="100%"/>
     </td>
     <td width="50%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmruii&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+      <!-- Generado por el workflow de metrics (incluye repos de org) -->
+      <img src="metrics.svg" width="100%" alt="Language metrics"/>
     </td>
   </tr>
 </table>
