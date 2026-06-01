@@ -8,7 +8,7 @@
 </div>
 
 ## 💡 About Me:
-Hey! I'm Matías, a Computer technician from Argentina, currently working toward my Bachelor's degree in Computer Science.
+Hi! I'm Matías, currently completing my final year in Computer Technology and pursuing a Bachelor's degree in Computer Science.
 
 - 🎓 Studying Computer technician @[IPM](https://www.ipm.edu.ar/)
 - 🔧 Expanding into backend development and cybersecurity
