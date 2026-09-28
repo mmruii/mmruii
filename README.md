@@ -24,9 +24,18 @@ Hi! I'm Matías, currently completing my final year in Computer Technology and p
 
 ## GitHub stats
 
-<img src="metrics-stats.svg" width="100%" alt="GitHub activity and repository statistics"/>
-
-<img src="metrics-languages.svg" width="480" alt="Most used languages"/>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top" align="center">
+      <img src="github-stats.svg" width="100%" alt="GitHub statistics and rank"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=mmruii&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;hide_border=true" width="100%" alt="GitHub contribution streak"/>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img src="metrics-languages.svg" width="100%" alt="Most used languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://komarev.com/ghpvc/?username=mmruii&icon=0&color=0)](https://visitcount.itsvg.in)

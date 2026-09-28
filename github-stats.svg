@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Awaiting the first GitHub Metrics workflow run.</desc>
+  <rect width="495" height="195" rx="6" fill="#0d1117"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="25" y="36" fill="#58a6ff" font-size="18" font-weight="600">GitHub Stats</text>
+    <text x="25" y="95" fill="#c9d1d9" font-size="14">Awaiting the first metrics update.</text>
+  </g>
+</svg>

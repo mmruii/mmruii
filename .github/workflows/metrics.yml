@@ -12,20 +12,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate activity and repository metrics
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v6
+
+      - name: Generate statistics and rank card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats
+          options: username=mmruii&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&hide_rank=false
+          path: github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: mmruii
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Argentina/Buenos_Aires
-          config_display: large
-          output_action: commit
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics-stats.svg
-          repositories_affiliations: owner, organization_member
-          repositories_forks: yes
+          fail_on_error: true
+
+      - name: Commit statistics card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub statistics card"
+            git push
+          fi
 
       - name: Generate languages metrics
         uses: lowlighter/metrics@latest
