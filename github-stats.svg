@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Matias Ruiz&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 129, Total PRs: 2, Total Issues: 263, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 134, Total PRs: 3, Total Issues: 263, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 215.78828370673705;
+        stroke-dashoffset: 214.81438784812218;
       }
     }
   
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >129</text>
+      >134</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >2</text>
+      >3</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -209,7 +209,7 @@
         x="204.01"
         y="12.5"
         data-testid="contribs"
-      >18</text>
+      >20</text>
     </g>
   </g>
     </svg>
